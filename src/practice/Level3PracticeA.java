@@ -35,6 +35,7 @@ public class Level3PracticeA {
 		assertEquals(3.3, contest.findBiggestFish("esme"), SMALL_NUMBER);
 		assertEquals(3, contest.findBiggestFish("isis"), SMALL_NUMBER);
 		assertEquals(0, contest.findBiggestFish("david"), SMALL_NUMBER);
+		
 	}
 
 	/*
